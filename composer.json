@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/dekeukenboer",
+  "description": "Opdracht de keukenboer, wat kun je met Composer?",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "dennis",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "laminas/laminas-validator": "^2.14",
+    "ext-mysqli": "*"
+  }
+}
